@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
 <body>
     <div id="app" class="container flex flex-col items-center gap-2 mx-auto max-w-[800px] pt-5">
-        <h1 class="text-3xl text-black font-semibold">Title</h1>
+        <h1 class="text-3xl text-black font-semibold">Form</h1>
 
         <form class="flex flex-col gap-3 items-center">
         
